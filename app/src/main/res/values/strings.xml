@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Room Persistence Demo</string>
+    <string name="add">Add player</string>
+</resources>
